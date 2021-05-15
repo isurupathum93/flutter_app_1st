@@ -11,7 +11,8 @@ class _test_pageState extends State<test_page> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Test'),
+        title: Text('Test page'),
+        backgroundColor: Colors.red,
       ),
       body: Container(
         child: Column(

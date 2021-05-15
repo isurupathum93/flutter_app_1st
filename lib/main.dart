@@ -4,7 +4,7 @@ import 'Home/home.dart';
 void main() {
   runApp(MaterialApp(
     home: HomePage(),
-    //debugShowCheckedModeBanner: false,
+    debugShowCheckedModeBanner: false,
   ));
 }
 
