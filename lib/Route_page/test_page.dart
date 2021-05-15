@@ -12,7 +12,7 @@ class _test_pageState extends State<test_page> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Test page'),
-        backgroundColor: Colors.red,
+        
       ),
       body: Container(
         child: Column(
